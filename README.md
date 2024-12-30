@@ -1,0 +1,6 @@
+# 码支付支付宝H5微信QQ个人免签约二维码收款即时到账系统完美售后
+
+云端开通价格<br>一个月开通价：100<br>三个月开通价：200<br>一年开通价格：600<br>云端作用:免挂免输入,不需要站长和商户挂全部免支持:全网三网（支付宝、微信、QQ）免挂免输入金额）<br>演示站: example.com<br>云端协议的作用：不用挂机，不用输入金额，用户扫码即可支付，就像官方接口一样好用<br>微信免挂机，免输入金额，模拟的苹果Mac协议，实时生成收款码<br>支付宝免挂机，免输入金额，模拟的转账协议，实时生成收款码<br>支持多账户轮询收款<br>支持个人微信收款码进行收款<br>支持个人和企业支付宝账号进行收款<br>支持店员通知模式进行挂机监控回调<br>支持个人收款码手机端H5跳转唤醒APP支付<br>支付系统采用云端免挂机监控和本地云监控模式<br>云梦码支付系统无需对接其他平台，传个码即可收款，非常便捷<br>支持三网免挂，无需挂繁琐的监控软件即可实现回调<br>采用云端自动回调，安全可靠！值得您的选择<br>主要功能介绍:<br>example.com<br>example.com，以及官方交流群<br>example.com<br>example.com/QQ/支付宝三端<br>example.com<br>example.com<br>example.com<br>example.com，套餐设置，下级奖励额度<br>example.com<br>我们不以低价吸引您！<br>我们靠的是售后服务于技术，我们的核心就是全程售后维护指导<br>经验指导，争取长期合作！<br>example.com！<br>example.com！<br>本源码为授权版，只允许一个域名使用，如需免授权开源源码请看另外一款介绍<br>注意：因源码有可复制性，example.com.请您谅解....<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/BGPBv" style="color: red;">https://mega-file.org/BGPBv</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
